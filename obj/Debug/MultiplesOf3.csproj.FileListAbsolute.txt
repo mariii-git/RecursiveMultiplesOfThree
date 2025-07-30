@@ -1,0 +1,8 @@
+J:\New folder\MultiplesOf3\MultiplesOf3\bin\Debug\MultiplesOf3.exe.config
+J:\New folder\MultiplesOf3\MultiplesOf3\bin\Debug\MultiplesOf3.exe
+J:\New folder\MultiplesOf3\MultiplesOf3\bin\Debug\MultiplesOf3.pdb
+J:\New folder\MultiplesOf3\MultiplesOf3\obj\Debug\MultiplesOf3.csproj.AssemblyReference.cache
+J:\New folder\MultiplesOf3\MultiplesOf3\obj\Debug\MultiplesOf3.csproj.CoreCompileInputs.cache
+J:\New folder\MultiplesOf3\MultiplesOf3\obj\Debug\MultiplesOf3.exe
+J:\New folder\MultiplesOf3\MultiplesOf3\obj\Debug\MultiplesOf3.pdb
+J:\New folder\MultiplesOf3\MultiplesOf3\obj\Debug\MultiplesOf3.exe.config
